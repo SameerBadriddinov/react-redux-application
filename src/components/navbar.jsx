@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import {logo} from '../constatnts'
+import {logo} from '../constants'
 
 const Navbar = () => {
 	return (
